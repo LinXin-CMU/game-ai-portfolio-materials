@@ -1,0 +1,22 @@
+{
+  "01-jev-v7-full-battle.mp4": {
+    "original_file": "01_官方Jev_v7_完整实战.mp4",
+    "sha256": "6e4b669570dffd41dc5ffd426fd9257a1a6128bf9721807eadbae138dbef0a64",
+    "bytes": 10231684
+  },
+  "02-aoe-script-bind.mp4": {
+    "original_file": "02_AOE窗口_脚本缚丝验证.mp4",
+    "sha256": "12da65cb9ac95a9343fcd4343b66ca485c4524ac72df5fae70822b1ea7ba9af9",
+    "bytes": 1661861
+  },
+  "03-matched-input-branches.mp4": {
+    "original_file": "03_同输入起点_动作分支试验.mp4",
+    "sha256": "53fe4532081f5a6d0973a12943d266e7f7bc0aa78e0e11ecf80d299c7d3c8f60",
+    "bytes": 2457483
+  },
+  "04-oc-storm-realtime-clear.mp4": {
+    "original_file": "04_OC-STORM_完整通关_实时.mp4",
+    "sha256": "1c575a62c24454fef695a4a938eec5480bb415609f6e2687aae88d1f28b1e636",
+    "bytes": 9678264
+  }
+}
